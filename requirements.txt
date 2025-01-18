@@ -3,8 +3,6 @@ pandas
 redis
 opencv-python-headless
 scikit-learn
-streamlit
-streamlit-webrtc
 insightface
 onnxruntime
 gunicorn
