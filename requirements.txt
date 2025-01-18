@@ -1,0 +1,15 @@
+numpy
+pandas
+redis
+opencv-python-headless
+scikit-learn
+streamlit
+streamlit-webrtc
+insightface
+onnxruntime
+gunicorn
+flask
+flask_session
+flask_cors
+picamera2
+cv2
